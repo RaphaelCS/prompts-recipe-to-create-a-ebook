@@ -18,7 +18,7 @@ Microsoft Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                     |
-| conteúdo | Crie um ebook sobre metodologia ágil Scrum voltado para crianças de 8 anos, usando como exemplos personagens da novela "A Caverna Encantada" do SBT. Dividir o conteúdo em textos simples, com exemplos práticos e sugestões de imagens.
+| conteúdo | Crie um ebook sobre metodologia ágil Scrum voltado para crianças de 8 anos, usando como exemplos personagens da novela "A Caverna Encantada" do SBT. Dividir o conteúdo em textos simples, com exemplos práticos e sugestões de imagens.|
 |  título  | Crie um título de um ebook
 | imagem | Gerar uma imagem de crianças montando uma casa na árvore em equipe, com um ambiente de colaboração e entusiasmo.
 | imagem | Gerar uma imagem de crianças discutindo em círculo, planejando a construção da casa na árvore.
