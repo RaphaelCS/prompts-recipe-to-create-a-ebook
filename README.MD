@@ -25,11 +25,17 @@ Microsoft Copilot：
 | imagem | Gerar uma imagem de crianças montando uma casa na árvore em equipe, com um ambiente de colaboração e entusiasmo.
 
 | imagem | Gerar uma imagem de crianças discutindo em círculo, planejando a construção da casa na árvore.
+
 | imagem | Gerar uma imagem de crianças iniciando a construção de uma casa na árvore. Duas delas usando crachás.
-| imagem | Gerar uma imagem de crianças interagindo com um quadro com post-its coloridos com uma casa da árvore ao fundo ainda incompleta
+
+| imagem | Gerar uma imagem de crianças interagindo com um quadro com post-its coloridos com uma casa da árvore ao fundo ainda incompleta.
+
 | imagem | Gerar uma imagem de crianças trabalhando em diferentes partes da casa na árvore.
+
 | imagem | Gerar uma imagem de crianças em uma roda, em pé, com uma falando e com uma casa da árvore ao fundo ainda incompleta.
+
 | imagem | Gerar uma imagem de crianças celebrando com uma casa da árvore ao fundo e uma mulher observando de longe atrá de uma árvore.
+
 | imagem | Gerar uma imagem de crianças brincando na casa da árvore, com um quadro de scrum ao fundo
 
 ## ✨ Features
@@ -43,5 +49,5 @@ Microsoft Copilot：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima na ferramenta copilot para gerar o material base e utilizado ferramenta de edição de documentos power point para diagramação.
 
