@@ -17,54 +17,28 @@ seguem abaixo.
 Microsoft Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                     |
+| conteúdo | Crie um ebook sobre metodologia ágil Scrum voltado para crianças de 8 anos, usando como exemplos personagens da novela "A Caverna Encantada" do SBT. Dividir o conteúdo em textos simples, com exemplos práticos e sugestões de imagens.
+|  título  | Crie um título de um ebook
+| imagem | Gerar uma imagem de crianças montando uma casa na árvore em equipe, com um ambiente de colaboração e entusiasmo.
+| imagem | Gerar uma imagem de crianças discutindo em círculo, planejando a construção da casa na árvore.
+| imagem | Gerar uma imagem de crianças iniciando a construção de uma casa na árvore. Duas delas usando crachás.
+| imagem | Gerar uma imagem de crianças interagindo com um quadro com post-its coloridos com uma casa da árvore ao fundo ainda incompleta
+| imagem | Gerar uma imagem de crianças trabalhando em diferentes partes da casa na árvore.
+| imagem | Gerar uma imagem de crianças em uma roda, em pé, com uma falando e com uma casa da árvore ao fundo ainda incompleta.
+| imagem | Gerar uma imagem de crianças celebrando com uma casa da árvore ao fundo e uma mulher observando de longe atrá de uma árvore.
+| imagem | Gerar uma imagem de crianças brincando na casa da árvore, com um quadro de scrum ao fundo
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Copilot
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
